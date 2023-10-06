@@ -1,0 +1,33 @@
+.cell {
+    position: relative;
+    background-color: black;
+    width: 40px;
+    height: 40px;
+}
+.circle {
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+}
+
+.triangle {
+    width: 0;
+    height: 0;
+    border-left: 20px solid transparent;
+    border-right: 20px solid transparent;
+}
+
+.square {
+    width: 40px;
+    height: 40px;
+}
+
+.red {
+    background-color: red;
+}
+.green {
+    background-color: green;
+}
+.blue {
+    background-color: blue;
+}
